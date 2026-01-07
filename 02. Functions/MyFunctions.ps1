@@ -9,7 +9,9 @@ function GetUserData {
 }
 
 # Using code from the `GetUser.ps1` file Create a function named `Get-CourseUser` that:
-  # Returns all users in the `MyLabFiles.csv` using the `GetUserData` helper function.
+  # Returns all users in the `MyLabFiles.csv` us
+  
+  ing the `GetUserData` helper function.
   # If a name is given, returns only that specific user
   # Change your function into an Advanced function
      # Add one more parameter to the function called `OlderThan` with a default value of 65
